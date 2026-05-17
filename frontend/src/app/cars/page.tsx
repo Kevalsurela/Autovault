@@ -260,3 +260,5 @@ export default function BrowseCars() {
 
 // Add Heart icon temporarily to this file since it's used
 import { Heart, Car } from "lucide-react";
+
+
